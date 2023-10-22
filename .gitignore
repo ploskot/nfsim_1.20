@@ -1,0 +1,10 @@
+# https://github.com/ploskot/nfsim/tree/update
+# git add .
+# git commit -m "message"
+# git push --set-upstream nfsim_repo update
+
+models1/
+models2/
+BNG/
+data2/
+pyscripts/
